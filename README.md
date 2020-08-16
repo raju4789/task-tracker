@@ -1,5 +1,6 @@
 # TASK-TRACKER
-An simple web application to track/add/update tasks, built using ReactJS, NodeJS and MongoDB.
+An simple web application to track/add/update tasks.
+__Teach Stack__: React JS, Node JS, Mongo DB, REST.
 
 # FEW SCREEN SHOTS
 
